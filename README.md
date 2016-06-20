@@ -1,7 +1,7 @@
-# mind_map
+# Mind_map
 
 ## Description
-some useful mind maps.
+Some useful mind maps.
 
 ## Introduce
 
